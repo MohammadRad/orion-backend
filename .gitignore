@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+orion.db
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
